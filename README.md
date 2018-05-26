@@ -17,4 +17,5 @@ the future.
 
 ## Bugs / Features / Discussion
 
-Feel free to open up an issue for discussion and have a chat with me!
+Feel free to open up an issue for discussion and have a chat with me! Or go to
+my contact page on my [website](https://quinn-donnelly.github.io/QuinnGetsSassy/contact)
