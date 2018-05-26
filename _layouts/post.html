@@ -18,7 +18,11 @@ layout: default
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
           <span class="meta">Posted by
-            <a href="#">Start Bootstrap</a>
+            {% if page.author%}
+              <a href="#">{{ page.author }}</a>
+            {% else %}
+            <a href="#">Anonymous</a>
+            {% endif %}
             on {{ page.date | date: '%B %d, %Y' }}</span>
         </div>
       </div>
