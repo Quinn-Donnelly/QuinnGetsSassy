@@ -20,7 +20,7 @@ layout: page
     <div class="control-group">
       <div class="form-group col-xs-12 floating-label-form-group controls">
         <label>Phone Number</label>
-        <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
+        <input type="tel" class="form-control" placeholder="Phone Number    (Optional)" id="phone" title="Optional">
         <p class="help-block text-danger"></p>
       </div>
     </div>
