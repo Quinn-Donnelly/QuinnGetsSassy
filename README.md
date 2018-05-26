@@ -3,11 +3,11 @@
 This is my first test of using this kind of repository design so we'll see how
 this goes.
 
-Basically I am learning new technology and I will use GitHub pages to document
+Basically I am learning new technology and I will use [GitHub pages](https://quinn-donnelly.github.io/QuinnGetsSassy/) to document
 my progress.
 
 In this repository I am looking into SASS, for more verbose descussion of what I
-am doing as well as my progress lease check out my website for this repository
+am doing as well as my progress lease check out my [website](https://quinn-donnelly.github.io/QuinnGetsSassy/) for this repository
 at (I need a link to the repo)
 
 ## Installation
