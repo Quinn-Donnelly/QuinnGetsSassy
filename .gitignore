@@ -1,3 +1,4 @@
 # Ignore Files From the Github pages branch
 _site/
 .sass-cache/
+.vscode/
